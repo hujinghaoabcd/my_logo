@@ -1,7 +1,8 @@
+<h1 align='center'>My Logo</h1>
 <p align="center">
     <img src="logo/logo2.svg" width="70%" />
 </p>
-<h1 align='center'>My Logo</h1>
+
 
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/version-0.1-yellow.svg" /></a>
@@ -47,12 +48,28 @@ The **my_logo** project is a creative initiative aimed at designing a logo that 
 ### [ 2 ] logo_with_title
 <table>
 <tr align="center">
+<td><img src="logo/wrf_title.svg" width="900px" height="50px"></td>
+</tr>
+<tr align="center">
+<td><strong>wrf_doc_logo</strong><br></td>
+</tr>
+<tr align="center">
+<td><img src="logo/aermod_title.svg" width="900px" height="50px"></td>
+</tr>
+<tr align="center">
+<td><strong>aermod_doc_logo</strong><br></td>
+</tr>
+<tr align="center">
+<td><img src="logo/aermod2_title.svg" width="900px" height="50px"></td>
+</tr>
 
+
+<!-- <tr align="center">
 
 <td>wrf_doc_logo<br><img src="logo/wrf_title.svg" ></td>
 <td>aermod_doc_logo<br><img src="logo/aermod_title.svg" ></td>
 <td>aermod2_doc_logo<br><img src="logo/aermod2_title.svg" ></td>
-</tr>
+</tr> -->
 </table>
 
 ## Features
