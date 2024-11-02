@@ -1,8 +1,7 @@
-<h1 align='center' style='text-decoration: none;'>My Logo</h1>
 <p align="center">
-    <img src="logo/logo2.svg" width="70%" />
+    <img src="logo/logo2.svg" width="50%" />
 </p>
-
+<h1 align='center' style='text-decoration: none;'>My Logo</h1>
 
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/version-0.1-yellow.svg" /></a>
