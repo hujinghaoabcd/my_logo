@@ -21,9 +21,9 @@ The **my_logo** project is a creative initiative aimed at designing a logo that 
 
 <table>
 <tr align="center">
-<td><img src="logo/wrf.svg" height='50px'></td>
-<td><img src="logo/aermod.svg" height='50px'></td>
-<td><img src="logo/aermod2.svg" height='50px'></td>
+<td><img src="logo/wrf.svg" height='50px'  width="300px" ></td>
+<td><img src="logo/aermod.svg" height='50px' width="300px" ></td>
+<td><img src="logo/aermod2.svg" height='50px' width="300px" ></td>
 </tr>
 <tr align="center">
 <td><strong>wrf_doc_logo</strong><br></td>
@@ -32,9 +32,9 @@ The **my_logo** project is a creative initiative aimed at designing a logo that 
 </tr>
 
 <tr align="center">
-<td><img src="logo/logo.svg" width="200px" height="50px"></td>
-<td><img src="logo/logo2.svg" width="200px" height="50px"></td>
-<td><img src="logo/logo3.svg" width="200px" height="50px"></td>
+<td><img src="logo/logo.svg" width="300px" height="50px"></td>
+<td><img src="logo/logo2.svg" width="300px" height="50px"></td>
+<td><img src="logo/logo3.svg" width="300px" height="50px"></td>
 </tr>
 <tr align="center">
 <td><strong>my_logo</strong><br></td>
