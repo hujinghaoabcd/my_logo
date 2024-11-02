@@ -48,8 +48,8 @@ The **my_logo** project is a creative initiative aimed at designing a logo that 
 ### [ 2 ] logo_with_title
 <table>
 <tr align="center">
-<td><img src="logo/wrf_title.svg"height="100px"></td>
-<td><img src="logo/aermod2_title.svg" height="100px"></td>
+<td><img src="logo/wrf_title.svg"height="100px" width="450px"></td>
+<td><img src="logo/aermod2_title.svg" height="100px"width="450px"></td>
 </tr>
 <tr align="center">
 <td><strong>wrf_doc_logo</strong><br></td>
