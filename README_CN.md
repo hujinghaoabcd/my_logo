@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="logo/logo2.svg" width="70%" />
+    <img src="logo/logo2.svg" width="80%" />
 </p>
-<h1 align='center'>My Logo</h1>
+<h1 align='center' style='text-decoration: none;'>My Logo</h1>
 
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/version-0.1-yellow.svg" /></a>
@@ -20,58 +20,43 @@
 
 
 ### [ 1 ] logo_only
-### [ 1 ] logo_only
+
 <table>
 <tr align="center">
-<td>my_logo<br><img src="logo/logo.svg" width="100" title=""></td>
-<td>my_logo<br><img src="logo/logo.svg" width="100" title=""></td>
-<td>my_logo<br><img src="logo/logo.svg" width="100" title=""></td>
-<td>my_logo<br><img src="logo/logo.svg" width="100" title=""></td>
+<td><img src="logo/wrf.svg" height='60px'  width="300px" ></td>
+<td><img src="logo/aermod.svg" height='60px' width="300px" ></td>
+<td><img src="logo/aermod2.svg" height='60px' width="300px" ></td>
+</tr>
+<tr align="center">
+<td><strong>wrf_doc_logo</strong><br></td>
+<td><strong>aermod_doc_logo</strong><br></td>
+<td><strong>aermod2_doc_logo</strong><br></td>
 </tr>
 
 <tr align="center">
-<td>my_logo2<br><img src="logo/logo2.svg" width="100" title=""></td>
-<td>my_logo2<br><img src="logo/logo2.svg" width="100" title=""></td>
-<td>my_logo2<br><img src="logo/logo2.svg" width="100" title=""></td>
-<td>my_logo2<br><img src="logo/logo2.svg" width="100" title=""></td>
+<td><img src="logo/logo.svg" width="300px" height="50px"></td>
+<td><img src="logo/logo2.svg" width="300px" height="50px"></td>
+<td><img src="logo/logo3.svg" width="300px" height="50px"></td>
+</tr>
+<tr align="center">
+<td><strong>my_logo</strong><br></td>
+<td><strong>my_logo2</strong><br></td>
+<td><strong>my_logo3</strong><br></td>
 </tr>
 
-<tr align="center">
-<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title=""></td>
-<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title=""></td>
-<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title=""></td>
-<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title=""></td>
-</tr>
-<tr align="center">
-<td>aermod_doc_logo<br><img src="logo/aermod.svg" width="60" title=""></td>
-<td>aermod_doc_logo<br><img src="logo/aermod.svg" width="60" title=""></td>
-<td>aermod_doc_logo<br><img src="logo/aermod.svg" width="60" title=""></td>
-<td>aermod_doc_logo<br><img src="logo/aermod.svg" width="60" title=""></td>
-</tr>
-<tr align="center">
-<td>aermod2_doc_logo<br><img src="logo/aermod2.svg" width="70" title=""></td>
-<td>aermod2_doc_logo<br><img src="logo/aermod2.svg" width="70" title=""></td>
-<td>aermod2_doc_logo<br><img src="logo/aermod2.svg" width="70" title=""></td>
-<td>aermod2_doc_logo<br><img src="logo/aermod2.svg" width="70" title=""></td>
-</tr>
 </table>
 
 ### [ 2 ] logo_with_title
 <table>
 <tr align="center">
-<td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title=""></td>
-<td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title=""></td>
+<td><img src="logo/wrf_title.svg"height="100px" width="450px"></td>
+<td><img src="logo/aermod2_title.svg" height="100px"width="450px"></td>
 </tr>
 <tr align="center">
-<td>aermod_doc_logo<br><img src="logo/aermod_title.svg" width="250" title=""></td>
-<td>aermod_doc_logo<br><img src="logo/aermod_title.svg" width="250" title=""></td>
-</tr>
-<tr align="center">
-<td>aermod2_doc_logo<br><img src="logo/aermod2_title.svg" width="250" title=""></td>
-<td>aermod2_doc_logo<br><img src="logo/aermod2_title.svg" width="250" title=""></td>
+<td><strong>wrf_doc_logo</strong><br></td>
+<td><strong>aermod_doc_logo</strong><br></td>
 </tr>
 </table>
-
 ## 功能特点
 
 - **简洁现代的设计**
