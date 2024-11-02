@@ -42,7 +42,7 @@ The **my_logo** project is a creative initiative aimed at designing a logo that 
 </tr>
 <tr align="center">
 <td>aermod2_doc_logo<br><img src="logo/aermod2_title.svg" width="300" title=""></td>
-<td>aermod2_doc_logo<br><img src="logo/aermod2_title.svg" width="3--" title=""></td>
+<td>aermod2_doc_logo<br><img src="logo/aermod2_title.svg" width="300" title=""></td>
 </tr>
 </table>
 
