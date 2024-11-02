@@ -1,4 +1,4 @@
-<h1 align='center'>My Logo</h1>
+<h1 align='center' style='text-decoration: none;'>My Logo</h1>
 <p align="center">
     <img src="logo/logo2.svg" width="70%" />
 </p>
