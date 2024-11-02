@@ -1,14 +1,15 @@
 # My Logo
 
-欢迎来到 **my_logo** 项目！此仓库专注于为[你的软件或项目名称]设计并开发一个标志（Logo）。
+欢迎来到 **my_logo** 项目！此仓库专注于为我的软件或项目设计开发一个标志（Logo）。
 
 [English Version](README.md)
 
 ## 关于项目
 
-**my_logo** 项目是一个创造性的设计项目，旨在打造一个标志，该标志可以体现[简要描述你的软件或主题的目的]。项目的目标是创建一个在不同平台上都具有高度辨识度且适用性广泛的标志。
+**my_logo** 项目是一个专为我的开发项目设计标志的创意项目，旨在打造一个能够充分体现项目核心理念的标志。目标是创建一个既多功能又易记的标志，适用于各种平台和媒体的品牌推广。
 
-### logo_only
+
+### [ 1 ] logo_only
 <table>
 <tr align="center">
 <td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
@@ -24,7 +25,7 @@
 </tr>
 </table>
 
-### logo_with_title
+### [ 2 ] logo_with_title
 <table>
 <tr align="center">
 <td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title="1Password"></td>

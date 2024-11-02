@@ -1,14 +1,14 @@
 # My Logo
 
-Welcome to the **my_logo** project! This repository is dedicated to the design and development of a logo for [your software/project name].
+Welcome to the **my_logo** project! This repository is dedicated to the design and development of a logo for my project.
 
 [中文版本 (Chinese Version)](README_CN.md)
 
 ## About the Project
 
-The **my_logo** project is a creative endeavor to design a logo that reflects [describe briefly the purpose of your software or the theme that the logo should represent]. The goal is to create a logo that is both versatile and memorable for branding across different mediums.
+The **my_logo** project is a creative initiative aimed at designing a logo that embodies the essence of your software. The goal is to create a logo that is both versatile and memorable, suitable for branding across various platforms and media.
 
-### logo_only
+### [ 1 ] logo_only
 <table>
 <tr align="center">
 <td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
@@ -24,7 +24,7 @@ The **my_logo** project is a creative endeavor to design a logo that reflects [d
 </tr>
 </table>
 
-### logo_with_title
+### [ 2 ] logo_with_title
 <table>
 <tr align="center">
 <td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title="1Password"></td>
