@@ -33,9 +33,9 @@ The **my_logo** project is a creative initiative aimed at designing a logo that 
 </tr>
 
 <tr align="center">
-<td><img src="logo/logo.svg" width="300px" ></td>
-<td><img src="logo/logo2.svg" width="300px" ></td>
-<td><img src="logo/logo3.svg" width="300px"></td>
+<td><img src="logo/logo.svg" width="300px" height="50px"></td>
+<td><img src="logo/logo2.svg" width="300px" height="50px"></td>
+<td><img src="logo/logo3.svg" width="300px" height="50px"></td>
 </tr>
 <tr align="center">
 <td><strong>my_logo</strong><br></td>
@@ -48,19 +48,19 @@ The **my_logo** project is a creative initiative aimed at designing a logo that 
 ### [ 2 ] logo_with_title
 <table>
 <tr align="center">
-<td><img src="logo/wrf_title.svg" width="900px" height="50px"></td>
+<td><img src="logo/wrf_title.svg" width="900px" ></td>
 </tr>
 <tr align="center">
 <td><strong>wrf_doc_logo</strong><br></td>
 </tr>
 <tr align="center">
-<td><img src="logo/aermod_title.svg" width="900px" height="50px"></td>
+<td><img src="logo/aermod_title.svg" width="900px" ></td>
 </tr>
 <tr align="center">
 <td><strong>aermod_doc_logo</strong><br></td>
 </tr>
 <tr align="center">
-<td><img src="logo/aermod2_title.svg" width="900px" height="50px"></td>
+<td><img src="logo/aermod2_title.svg" width="900px" ></td>
 </tr>
 
 
