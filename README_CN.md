@@ -23,16 +23,6 @@
 ### [ 1 ] logo_only
 
 <table>
-<tr align="center">
-<td><img src="logo/wrf.svg" height='60px'  width="300px" ></td>
-<td><img src="logo/aermod.svg" height='60px' width="300px" ></td>
-<td><img src="logo/aermod2.svg" height='60px' width="300px" ></td>
-</tr>
-<tr align="center">
-<td><strong>wrf_doc_logo</strong><br></td>
-<td><strong>aermod_doc_logo</strong><br></td>
-<td><strong>aermod2_doc_logo</strong><br></td>
-</tr>
 
 <tr align="center">
 <td><img src="logo/logo.svg" width="300px" height="50px"></td>
@@ -41,8 +31,43 @@
 </tr>
 <tr align="center">
 <td><strong>my_logo</strong><br></td>
-<td><strong>my_logo2</strong><br></td>
-<td><strong>my_logo3</strong><br></td>
+<td><strong>my_logo</strong><br></td>
+<td><strong>my_logo</strong><br></td>
+</tr>
+
+<tr align="center">
+<td><img src="logo/wrf.svg" height='50px'  width="300px" ></td>
+<td><img src="logo/wrf2.svg" height='50px' width="300px" ></td>
+<td><img src="logo/wrf3.svg" height='50px' width="300px" ></td>
+</tr>
+<tr align="center">
+<td><strong>wrf_doc_logo</strong><br></td>
+<td><strong>wrf_doc_logo</strong><br></td>
+<td><strong>wrf_doc_logo</strong><br></td>
+</tr>
+
+
+<tr align="center">
+<td><img src="logo/aermod3.svg" height='60px'  width="300px" ></td>
+<td><img src="logo/aermod.svg" height='60px' width="300px" ></td>
+<td><img src="logo/aermod2.svg" height='60px' width="300px" ></td>
+</tr>
+<tr align="center">
+<td><strong>aermod_doc_logo</strong><br></td>
+<td><strong>aermod_doc_logo</strong><br></td>
+<td><strong>aermod_doc_logo</strong><br></td>
+</tr>
+
+
+<tr align="center">
+<td><img src="logo/maplibre_layerhub.svg" width="300px" height="50px"></td>
+<td><img src="logo/maplibre_layerhub2.svg" width="300px" height="50px"></td>
+<td><img src="logo/maplibre_layerhub3.svg" width="300px" height="50px"></td>
+</tr>
+<tr align="center">
+<td><strong>maplibre_layerhub</strong><br></td>
+<td><strong>maplibre_layerhub</strong><br></td>
+<td><strong>maplibre_layerhub</strong><br></td>
 </tr>
 
 </table>
@@ -51,13 +76,32 @@
 <table>
 <tr align="center">
 <td><img src="logo/wrf_title.svg"height="100px" width="450px"></td>
+<td><img src="logo/wrf_title2.svg" height="100px"width="450px"></td>
+</tr>
+<tr align="center">
+<td><strong>wrf_doc_logo</strong><br></td>
+<td><strong>wrf_doc_logo</strong><br></td>
+</tr>
+
+<tr align="center">
+<td><img src="logo/aermod_title.svg"height="100px" width="450px"></td>
 <td><img src="logo/aermod2_title.svg" height="100px"width="450px"></td>
 </tr>
 <tr align="center">
 <td><strong>wrf_doc_logo</strong><br></td>
 <td><strong>aermod_doc_logo</strong><br></td>
 </tr>
+
+<tr align="center">
+<td><img src="logo/maplibre_layerhub_title.svg"height="100px" width="450px"></td>
+<td><img src="logo/maplibre_layerhub_title2.svg" height="100px"width="450px"></td>
+</tr>
+<tr align="center">
+<td><strong>maplibre_layerhub</strong><br></td>
+<td><strong>maplibre_layerhub</strong><br></td>
+</tr>
 </table>
+
 ## 功能特点
 
 - **简洁现代的设计**
