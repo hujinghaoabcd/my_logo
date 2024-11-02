@@ -21,15 +21,6 @@ The **my_logo** project is a creative initiative aimed at designing a logo that 
 
 <table>
 <tr align="center">
-<td><img src="logo/logo.svg" width="200px" height="50px"></td>
-<td><img src="logo/logo2.svg" width="200px" height="50px"></td>
-</tr>
-<tr align="center">
-<td><strong>my_logo</strong><br></td>
-<td><strong>my_logo2</strong><br></td>
-</tr>
-
-<tr align="center">
 <td><img src="logo/wrf.svg" height='50px'></td>
 <td><img src="logo/aermod.svg" height='50px'></td>
 <td><img src="logo/aermod2.svg" height='50px'></td>
@@ -39,11 +30,25 @@ The **my_logo** project is a creative initiative aimed at designing a logo that 
 <td><strong>aermod_doc_logo</strong><br></td>
 <td><strong>aermod2_doc_logo</strong><br></td>
 </tr>
+
+<tr align="center">
+<td><img src="logo/logo.svg" width="200px" height="50px"></td>
+<td><img src="logo/logo2.svg" width="200px" height="50px"></td>
+<td><img src="logo/logo3.svg" width="200px" height="50px"></td>
+</tr>
+<tr align="center">
+<td><strong>my_logo</strong><br></td>
+<td><strong>my_logo2</strong><br></td>
+<td><strong>my_logo3</strong><br></td>
+</tr>
+
 </table>
 
 ### [ 2 ] logo_with_title
 <table>
 <tr align="center">
+
+
 <td>wrf_doc_logo<br><img src="logo/wrf_title.svg" ></td>
 <td>aermod_doc_logo<br><img src="logo/aermod_title.svg" ></td>
 <td>aermod2_doc_logo<br><img src="logo/aermod2_title.svg" ></td>
