@@ -43,8 +43,8 @@
 <td>aermod_doc_logo<br><img src="logo/aermod_title.svg" width="250" title=""></td>
 </tr>
 <tr align="center">
-<td>aermod2_doc_logo<br><img src="logo/aermod2_title.svg" width="300" title=""></td>
-<td>aermod2_doc_logo<br><img src="logo/aermod2_title.svg" width="300 title=""></td>
+<td>aermod2_doc_logo<br><img src="logo/aermod2_title.svg" width="250" title=""></td>
+<td>aermod2_doc_logo<br><img src="logo/aermod2_title.svg" width="250" title=""></td>
 </tr>
 </table>
 
