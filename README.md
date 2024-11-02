@@ -17,44 +17,34 @@ Welcome to the **my_logo** project! This repository is dedicated to the design a
 
 The **my_logo** project is a creative initiative aimed at designing a logo that embodies the essence of your software. The goal is to create a logo that is both versatile and memorable, suitable for branding across various platforms and media.
 
-### [ 1 ] logo_only
+### **🗂** My Projects
 
-<table>
-<tr align="center">
-<td><img src="logo/wrf.svg" height='60px'  width="300px" ></td>
-<td><img src="logo/aermod.svg" height='60px' width="300px" ></td>
-<td><img src="logo/aermod2.svg" height='60px' width="300px" ></td>
-</tr>
-<tr align="center">
-<td><strong>wrf_doc_logo</strong><br></td>
-<td><strong>aermod_doc_logo</strong><br></td>
-<td><strong>aermod2_doc_logo</strong><br></td>
-</tr>
+| Category            | Project Name         | Description                                       |
+|---------------------|----------------------|---------------------------------------------------|
+| **Design**          |                      |                                                   |
+|                     | [my_logo](https://github.com/hujinghaoabcd/my_logo) | Design and develop a logo for software or project |
+| **User Guide**      |                      |                                                   |
+|                     | [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) | User guide for the WRF model                      |
+|                     | [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc) | User guide for the AERMOD model                  |
+| **Javascript Packages** |               |                                                   |
+|                     | [MapLibreLayerHub](https://github.com/hujinghaoabcd/MapLibreLayerHub) | MapLibre-based map layer management package       |
+|                     | [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | JavaScript library for 3D visualization with MapLibre |
+|                     | [GeoLay](https://github.com/hujinghaoabcd/GeoLay) | Tool for managing geographic data                 |
+|                     | [MapLeaf](https://github.com/hujinghaoabcd/MapLeaf) | A simplified map control package                  |
+|                     | [MapLibreFrame](https://github.com/hujinghaoabcd/MapLibreFrame) | A framework based on MapLibre                     |
+| **GIS Tools**       |                      |                                                   |
+|                     | [PyGISFrame](https://github.com/hujinghaoabcd/PyGISFrame) | GIS tool framework based on Python                |
+|                     | [GeomapHub](https://github.com/hujinghaoabcd/GeomapHub) | Application integrating various GIS functions     |
+|                     | [GeoElectron](https://github.com/hujinghaoabcd/GeoElectron) | Tool for geographic data visualization            |
+| **Geoscience Models** |                   |                                                   |
+|                     | [PyWESM](https://github.com/hujinghaoabcd/PyWESM) | Geoscience modeling framework                     |
+| **General Tools**   |                      |                                                   |
+|                     | [Personal profile](https://github.com/hujinghaoabcd/hujinghaoabcd) | Personal profile and showcase page               |
+|                     | [UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme) | Tool for unifying README file formats             |
 
-<tr align="center">
-<td><img src="logo/logo.svg" width="300px" height="50px"></td>
-<td><img src="logo/logo2.svg" width="300px" height="50px"></td>
-<td><img src="logo/logo3.svg" width="300px" height="50px"></td>
-</tr>
-<tr align="center">
-<td><strong>my_logo</strong><br></td>
-<td><strong>my_logo2</strong><br></td>
-<td><strong>my_logo3</strong><br></td>
-</tr>
+---
 
-</table>
 
-### [ 2 ] logo_with_title
-<table>
-<tr align="center">
-<td><img src="logo/wrf_title.svg"height="100px" width="450px"></td>
-<td><img src="logo/aermod2_title.svg" height="100px"width="450px"></td>
-</tr>
-<tr align="center">
-<td><strong>wrf_doc_logo</strong><br></td>
-<td><strong>aermod_doc_logo</strong><br></td>
-</tr>
-</table>
 
 ## Features
 
