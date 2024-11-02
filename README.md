@@ -1,9 +1,10 @@
 <p align="center">
-    <img src="logo/logo2.svg" width="80%" />
+    <img src="logo/logo2.svg" width="100%" />
 </p>
-<h1 align='center' style='text-decoration: none;'>My Logo</h1>
 
-<p align="center">
+# My Logo
+
+<p >
 <a href=""><img src="https://img.shields.io/badge/version-0.1-yellow.svg" /></a>
 <a href=""><img src="https://img.shields.io/badge/author-Jinghao Hu-orange.svg" /></a>
 <a href="http://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-green.svg" /></a>
