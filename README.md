@@ -10,13 +10,13 @@ The **my_logo** project is a creative endeavor to design a logo that reflects [d
 
 ### logo_only
 <table>
-<tr>
+<tr align="center">
 <td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
 <td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
 <td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
 <td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
 </tr>
-<tr>
+<tr align="center">
 <td>aermod_doc_logo<br><img src="logo/aermod.svg" width="60" title="1Password"></td>
 <td>aermod_doc_logo<br><img src="logo/aermod.svg" width="60" title="1Password"></td>
 <td>aermod_doc_logo<br><img src="logo/aermod2.svg" width="60" title="1Password"></td>
@@ -26,16 +26,15 @@ The **my_logo** project is a creative endeavor to design a logo that reflects [d
 
 ### logo_with_title
 <table>
-<tr>
+<tr align="center">
 <td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title="1Password"></td>
 <td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title="1Password"></td>
 </tr>
-<tr>
+<tr align="center">
 <td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title="1Password"></td>
 <td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title="1Password"></td>
 </tr>
 </table>
-
 ## Features
 
 - **Simple, Modern Design**
