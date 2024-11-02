@@ -35,6 +35,7 @@ The **my_logo** project is a creative initiative aimed at designing a logo that 
 <td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title="1Password"></td>
 </tr>
 </table>
+
 ## Features
 
 - **Simple, Modern Design**
