@@ -8,6 +8,34 @@ Welcome to the **my_logo** project! This repository is dedicated to the design a
 
 The **my_logo** project is a creative endeavor to design a logo that reflects [describe briefly the purpose of your software or the theme that the logo should represent]. The goal is to create a logo that is both versatile and memorable for branding across different mediums.
 
+### logo_only
+<table>
+<tr>
+<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
+<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
+<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
+<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
+</tr>
+<tr>
+<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
+<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
+<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
+<td>wrf_doc_logo<br><img src="logo/wrf.svg" width="100" title="1Password"></td>
+</tr>
+</table>
+
+### logo_with_title
+<table>
+<tr>
+<td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title="1Password"></td>
+<td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title="1Password"></td>
+</tr>
+<tr>
+<td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title="1Password"></td>
+<td>wrf_doc_logo<br><img src="logo/wrf_title.svg" width="250" title="1Password"></td>
+</tr>
+</table>
+
 ## Features
 
 - **Simple, Modern Design**
