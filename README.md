@@ -22,9 +22,9 @@ The **my_logo** project is a creative initiative aimed at designing a logo that 
 
 <table>
 <tr align="center">
-<td><img src="logo/wrf.svg" height='50px'  width="300px" ></td>
-<td><img src="logo/aermod.svg" height='50px' width="300px" ></td>
-<td><img src="logo/aermod2.svg" height='50px' width="300px" ></td>
+<td><img src="logo/wrf.svg" height='60px'  width="300px" ></td>
+<td><img src="logo/aermod.svg" height='60px' width="300px" ></td>
+<td><img src="logo/aermod2.svg" height='60px' width="300px" ></td>
 </tr>
 <tr align="center">
 <td><strong>wrf_doc_logo</strong><br></td>
